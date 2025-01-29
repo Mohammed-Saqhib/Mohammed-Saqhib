@@ -24,7 +24,7 @@
 ---
 
 ### 🌟 Professional Summary
-I’m a highly motivated **2024 BCA graduate** from Dayanand Sagar University, Bengaluru, with expertise in data visualization, data engineering, and decision sciences. I am passionate about solving complex problems using statistical models and delivering actionable insights through visual storytelling.
+I’m a highly motivated ** BCA Student** from Dayanand Sagar University, Bengaluru, with expertise in data visualization, data engineering, and decision sciences. I am passionate about solving complex problems using statistical models and delivering actionable insights through visual storytelling.
 
 ---
 
