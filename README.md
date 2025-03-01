@@ -8,7 +8,7 @@
   <a href="https://github.com/Mohammed-Saqhib" target="blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://mohammedtyson.my.canva.site/msaqhib-portfolio" target="blank">
+  <a href="https://mohammed-saqhib.github.io/Portfolio/" target="blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
