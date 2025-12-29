@@ -56,7 +56,8 @@ I’m a highly motivated ** BCA Student** from Dayanand Sagar University, Bengal
 ---
 
 ### 🎓 Education
-- **BCA** – Dayanand Sagar University, Bengaluru (*2022 – Present*)
+- **MCA** – New Horizon College, Bengaluru (*2025 – Present*)
+- **BCA** – Dayanand Sagar University, Bengaluru (*2022 – 2025*)
 - **Class XII (CBSE)** – Kendriya Vidyalaya, Chandigarh (*2022*)
 - **Class X (CBSE)** – Kendriya Vidyalaya, Chandigarh (*2020*)
 
